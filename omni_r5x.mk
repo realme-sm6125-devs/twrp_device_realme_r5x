@@ -33,7 +33,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 PRODUCT_DEVICE := r5x
 PRODUCT_NAME := omni_r5x
 PRODUCT_BRAND := Realme
-PRODUCT_MODEL := Realme 5/5s/5i
+PRODUCT_MODEL := 5/5s/5i/5NFC
 PRODUCT_MANUFACTURER := Realme
 
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST += \
